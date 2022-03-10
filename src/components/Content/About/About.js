@@ -3,7 +3,7 @@ import Avatar from '../../../images/ava.png'
 const About = () => {
 
     return (
-        <div className="h-screen p-8 md:p-12 flex items-center border-b-[1px]">
+        <div className="lg:h-screen p-8 md:p-12 flex items-center border-b-[1px]">
             <div>
                 <div className="md:hidden w-full flex justify-center mb-4">
                     <div className="w-[180px] h-[180px] relative bg-[#66a6d8] rounded-full">

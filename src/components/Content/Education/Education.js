@@ -3,7 +3,7 @@
 const Education = () => {
 
     return (
-        <div className="h-screen p-12 flex items-center border-b-[1px]">
+        <div className="lg:h-screen p-12 flex items-center border-b-[1px]">
             <div>
                 <h1 className="text-6xl text-[#343A40] font-bold font-primary mb-8">EDUCATION</h1>
                 <div className="flex justify-between">
@@ -28,12 +28,12 @@ const Education = () => {
                             </div>
                             <div className="my-4">
                                 <i className="fa-solid fa-bookmark text-[#ffc107]"></i>
-                                <span> After graduation, I continued to study Computational thinking for problem solving and Object Oriented Programming course at Cybersoft.
+                                <span> After graduated, I continued to study Computational thinking for problem solving and Object Oriented Programming course at Cybersoft.
                                 </span>
                             </div>
                             <div>
                                 <i className="fa-solid fa-bookmark text-[#ffc107]"></i>
-                                <span> Then, I taught myself programming languages related to Frontend: 
+                                <span> Then, I study by myself programming languages related to Frontend: 
                                     HTML, CSS, Boostrap, Tailwind, JavaScript, TypeScript, ReactJS.
                                 </span>
                             </div>

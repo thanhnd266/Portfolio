@@ -3,7 +3,7 @@
 const Skills = () => {
 
     return (
-        <div className="h-screen p-12 flex items-center border-b-[1px]">
+        <div className="lg:h-screen p-12 flex items-center border-b-[1px]">
             <div>
                 <h1 className="text-6xl text-[#343A40] font-bold font-primary mb-8">SKILLS</h1>
                 <div className="font-primary text-[#343A40] text-2xl">

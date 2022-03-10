@@ -3,7 +3,7 @@
 const TheEnd = () => {
 
     return (
-        <div className="h-screen p-12 flex items-center border-b-[1px]">
+        <div className="lg:h-screen p-12 flex items-center border-b-[1px]">
             <div>
                 <h1 className="text-6xl text-[#343A40] font-bold font-primary mb-8">THE END</h1>
                     <div className="pr-4">
