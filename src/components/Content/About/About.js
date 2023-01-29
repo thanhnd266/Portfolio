@@ -44,16 +44,16 @@ const About = () => {
                 </div>
 
                 <div className="flex text-white text-2xl">
-                    <a className="flex items-center justify-center bg-[#495057] w-14 h-14 mr-4 rounded-full hover:bg-[#fa983a]" href="https://www.linkedin.com/in/duy-thanh-602239231/" target="_blank">
+                    <a className="flex items-center justify-center bg-[#495057] w-14 h-14 mr-4 rounded-full hover:bg-[#fa983a]" href="https://www.linkedin.com/in/duy-thanh-602239231/" target="_blank" rel="noreferrer">
                         <i className="fa-brands fa-linkedin-in"></i>
                     </a>
-                    <a className="flex items-center justify-center bg-[#495057] w-14 h-14 mr-4 rounded-full hover:bg-[#fa983a]" href="https://www.facebook.com/ndt2699/" target="_blank">
+                    <a className="flex items-center justify-center bg-[#495057] w-14 h-14 mr-4 rounded-full hover:bg-[#fa983a]" href="https://www.facebook.com/ndt2699/" target="_blank" rel="noreferrer">
                         <i className="fa-brands fa-facebook-f"></i>
                     </a>
-                    <a className="flex items-center justify-center bg-[#495057] w-14 h-14 mr-4 rounded-full hover:bg-[#fa983a]" href="https://github.com/ZzuyThanhzZ" target="_blank">
+                    <a className="flex items-center justify-center bg-[#495057] w-14 h-14 mr-4 rounded-full hover:bg-[#fa983a]" href="https://github.com/ZzuyThanhzZ" target="_blank" rel="noreferrer">
                         <i className="fab fa-github"></i>
                     </a>
-                    <a className="flex items-center justify-center bg-[#495057] w-14 h-14 mr-4 rounded-full hover:bg-[#fa983a]" href="https://discord.gg/MKFjEkrG" target="_blank">
+                    <a className="flex items-center justify-center bg-[#495057] w-14 h-14 mr-4 rounded-full hover:bg-[#fa983a]" href="https://discord.gg/MKFjEkrG" target="_blank" rel="noreferrer">
                         <i className="fa-brands fa-discord"></i>
                     </a>
                 </div>

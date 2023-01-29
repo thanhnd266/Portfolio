@@ -1,12 +1,9 @@
-import {useRef, useState, useEffect} from 'react';
 import {
-  ScrollingProvider,
-  useScrollSection,
-  Section,
+  ScrollingProvider, Section, useScrollSection
 } from 'react-scroll-section';
 //components
-import NavBar from './components/NavBar';
 import Content from './components/Content/Content';
+import NavBar from './components/NavBar';
 
 function App() {
 

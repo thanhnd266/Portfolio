@@ -10,7 +10,7 @@ const Education = () => {
                     <div className="pr-4">
                         <div className="font-primary text-2xl text-[#34495E] my-4">
                             <div className="my-1 text-primary font-bold">
-                                <a className="text-3xl hover:text-[#fa983a]" href="https://portal.ptit.edu.vn/" target="_blank">POSTS AND TELECOMMUNICATIONS INSTITUTE OF TECHNOLOGY</a>
+                                <a className="text-3xl hover:text-[#fa983a]" rel="noreferrer" href="https://portal.ptit.edu.vn/" target="_blank">POSTS AND TELECOMMUNICATIONS INSTITUTE OF TECHNOLOGY</a>
                             </div>
 
                             <div>
