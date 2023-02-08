@@ -28,7 +28,7 @@ const About = () => {
 
                 <div className="text-[#34495E]">
                     <h2 className="text-xl font-semibold mb-2">Welcome to visit my CV online!</h2>
-                    <span>"I love to learn and find out interesting things about front-end stuffs. For this reason, I'm looking for position as a front-end developer, to improve my skill and experience."</span>
+                    <span>"I love to learn and find out interesting things about Front-end stuffs. For this reason, I'm looking for position as a front-end developer, to improve my skill and experience. In addition, I also want to learn more things about Back-end. Over past 1 years, I have primarily worked with ReactJs, AngularJs and ExpressJs for projects that specialize in enterprise web applications."</span>
                 </div>
 
                 <div className="text-[#34495E] my-6">

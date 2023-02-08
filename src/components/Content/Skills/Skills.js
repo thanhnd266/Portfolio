@@ -24,7 +24,10 @@ const Skills = () => {
                                     <img alt="" className="w-12 h-12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="ReactJS" />
                                 </div>
                                 <div className="mr-6">
-                                    <img alt="" className="w-12 h-12" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" title="TypesCript" />
+                                    <img alt="" className="w-12 h-12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" title="AngularJS" />
+                                </div>
+                                <div className="mr-6">
+                                    <img alt="" className="w-12 h-12" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" title="Typescript" />
                                 </div>
                             </div>
                             <div className="flex mt-6 lg:mt-0">
@@ -39,6 +42,28 @@ const Skills = () => {
                                 </div>
                                 <div className="mr-6">
                                     <i className="text-[48px] fab fa-npm" title="npm"/>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="block lg:flex my-6">
+                            <div className="flex">
+                                <div className="mr-6">
+                                    <img alt="" className="w-16 h-12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" title="NodeJs" />
+                                </div>
+                                <div className="mr-6">
+                                    <img alt="" className="w-28 h-12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" />
+                                </div>
+                                <div className="mr-6">
+                                    <img alt="" className="w-28 h-12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo-redis.svg/2560px-Logo-redis.svg.png" title="Redis" />
+                                </div>
+                                <div className="mr-6">
+                                    <img alt="" className="w-12 h-12" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" />
+                                </div>
+                            </div>
+                            <div className="flex mt-6 lg:mt-0">
+                                <div className="mr-6">
+                                    <img alt="" className="w-24 h-12" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.png" title="Socket" />
                                 </div>
                             </div>
                         </div>
