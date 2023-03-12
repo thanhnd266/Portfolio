@@ -16,7 +16,7 @@ const VisionHomePage = () => {
                 </p>
                 <p>
                     <span className="font-bold">Technologies: </span>
-                    NextJs, Boostrap, Scss, Ghost.
+                    NextJs, Boostrap, Scss, GhostJS.
                 </p>
             </div>
         </div>
